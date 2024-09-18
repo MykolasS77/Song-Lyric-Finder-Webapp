@@ -1,5 +1,6 @@
 REQUIREMENTS:
 
+
 IDE of choice (I use VS code),
 
 Node.JS,
@@ -9,6 +10,8 @@ Git bash terminal,
 Nodemon.
 
 HOW TO RUN:
+
+
 1.Change directory to where you've extracted the files. Best to make a separate folder. 
 
 2.On git bash terminal type "npm i" command line;
