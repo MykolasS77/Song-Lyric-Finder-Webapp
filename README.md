@@ -12,15 +12,17 @@ Nodemon.
 HOW TO RUN:
 
 
-1.Change directory to where you've extracted the files. Best to make a separate folder. 
+1.Download or clone the files.
 
-2.On git bash terminal type "npm i" command line;
+2.On gitbash terminal, change directory to where you've extracted the files. Best to make a separate folder. 
 
-3.Type "nodemon index.js" command line;
+3.On git bash terminal type "npm i" command line;
 
-4.Open your web browser of choice;
+4.Type "nodemon index.js" command line;
 
-5.In search bar type "localhost:3000". You should now see the app.  
+5.Open your web browser of choice;
+
+6.In search bar type "localhost:3000". You should now see the app.  
 
 HOW TO USE:
 
