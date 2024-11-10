@@ -1,5 +1,6 @@
-REQUIREMENTS:
+LINK TO APP: https://song-lyric-finder-webapp-1.onrender.com/
 
+TO RUN LOCALY YOU WILL NEED:
 
 IDE of choice (I use VS code),
 
