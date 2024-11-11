@@ -27,6 +27,10 @@ app.post('/submit', async (req, res) => {
     });
       } catch (error) {
         console.error(error);
+        var error_message = "Lyrics not found. Please try again." 
+        res.render("index.ejs", {
+          error_message: error_message
+        })
       }
 
   });
