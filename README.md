@@ -1,4 +1,4 @@
-LINK TO APP: https://song-lyric-finder-webapp-1.onrender.com/
+LINK TO APP: https://song-lyric-finder-webapp-1.onrender.com/ (can take some time to load)
 
 TO RUN LOCALY YOU WILL NEED:
 
